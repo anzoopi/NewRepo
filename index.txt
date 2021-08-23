@@ -1,1 +1,2 @@
 New file for branching,merging
+It is very confusing.
